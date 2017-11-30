@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/Alliterations/LunarWaterMedia/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+LunarWater Media is a game development studio founded by me(Alex Way) during Fall of 2017. I was heavily inspired by DOOM/Duke Nukem and their mechanics so I've decided to make a DOOM/Duke Nukem styled game using the BUILD engine. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Feel free to look around and download a few of my games :-)
 
-### Markdown
+## Upcoming Games
+1. NATIVE - Somewhere in the Pacific Ocean, a team of militants contain a small zombie outbreak on a small island. After evacuating all of the island's natives, you find one native who hasn't left the island. You start to become closer to the native until the day he asks for a favor...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Downloads
 
-```markdown
-Syntax highlighted code block
+No games for download ;-(
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Alliterations/LunarWaterMedia/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
