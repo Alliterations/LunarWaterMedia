@@ -1,6 +1,6 @@
 ## About
 
-LunarWater Media is a game development studio founded by me(Alex Way) during Fall of 2017. I was heavily inspired by DOOM/Duke Nukem and their mechanics so I've decided to make a DOOM/Duke Nukem mod featuring story rich content.
+LunarWater Media is a game development studio founded by me(Alex Way) during Fall of 2017. Because I had no expereince in programming or making a vidoe game, I heavily relied on developing mods for pre made games, such as, Wolfenstein 3d,Doom,gmod.
 
 Feel free to look around and download a few of my games :-)
 
