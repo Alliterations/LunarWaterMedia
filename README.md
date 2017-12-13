@@ -1,10 +1,12 @@
+#Sign up for NATIVE ALPHA : https://goo.gl/forms/RiVat46xu1R7Lo9x2
+
 ## About
 
-LunarWater Media is a game development studio founded by me(Alex Way) during Fall of 2017. Because I had no expereince in programming or making a vidoe game, I heavily relied on developing mods for pre made games, such as, Wolfenstein 3d,Doom,gmod.
+LunarWater Media is a game development studio founded by me(Alex Way) during Fall of 2017. 
 
 Feel free to look around and download a few of my games :-)
 
-## Upcoming Games/Mods
+## Upcoming Games
 1. NATIVE - Somewhere in the Pacific Ocean, a team of militants contain a small zombie outbreak on a small island. After evacuating all of the island's natives, you find one native who hasn't left the island. You start to become closer to the native until the day he asks for a favor...
 
 ## Downloads
